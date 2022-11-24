@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/JCAUCOTA/.nuget/packages/": {}
+    "/Users/mamonaco/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JCAUCOTA/Desktop/Facultad/PNT1/Wiki-PNT1/Wiki-PNT1/Wiki-PNT1.csproj",
+      "projectUniqueName": "/Users/mamonaco/Desktop/ORT/NT1/Wiki-PNT1/Wiki-PNT1/Wiki-PNT1.csproj",
       "projectName": "Wiki-PNT1",
-      "projectPath": "/Users/JCAUCOTA/Desktop/Facultad/PNT1/Wiki-PNT1/Wiki-PNT1/Wiki-PNT1.csproj",
-      "packagesPath": "/Users/JCAUCOTA/.nuget/packages/",
-      "outputPath": "/Users/JCAUCOTA/Desktop/Facultad/PNT1/Wiki-PNT1/Wiki-PNT1/obj/",
+      "projectPath": "/Users/mamonaco/Desktop/ORT/NT1/Wiki-PNT1/Wiki-PNT1/Wiki-PNT1.csproj",
+      "packagesPath": "/Users/mamonaco/.nuget/packages/",
+      "outputPath": "/Users/mamonaco/Desktop/ORT/NT1/Wiki-PNT1/Wiki-PNT1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/JCAUCOTA/.nuget/NuGet/NuGet.Config"
+        "/Users/mamonaco/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
