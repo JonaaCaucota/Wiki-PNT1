@@ -5,6 +5,7 @@ namespace Wiki_PNT1.Views.Home
 	{
 		public index2()
 		{
+			
 		}
 	}
 }
